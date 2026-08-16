@@ -2,6 +2,7 @@ import { ChangeDetectionStrategy, Component, inject, signal } from '@angular/cor
 import { DatePipe } from '@angular/common';
 import { Todo, TodoClient } from '../generated/api';
 import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
+import { switchMap } from 'rxjs';
 
 @Component({
   selector: 'app-todo-displayer',
@@ -28,9 +29,11 @@ export class TodoDisplayerComponent {
   constructor() {
     this.todoClient
       .getTodos()
-      .pipe(takeUntilDestroyed())
-      .subscribe((todos) => {
-        this.todos.set(todos);
-      });
+      .pipe(
+        switchMap(
+            async (todos) => this.todos.set(todos)
+        ), 
+        takeUntilDestroyed())
+      .subscribe();
   }
 }

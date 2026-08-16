@@ -14,86 +14,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="402221ed-aba3-4e7d-9069-962cadfd2d8a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ApplicationManager/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ApplicationManager/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ApplicationManager/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManager.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/.idea/.idea.ApplicationManagerAPI.dir/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/.idea/.idea.ApplicationManagerAPI.dir/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/.idea/.idea.ApplicationManagerAPI.dir/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/ApplicationManagerAPI.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/ApplicationManagerAPI.http" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/Properties/launchSettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/appsettings.Development.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/appsettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/bin/Debug/net10.0/ApplicationManagerAPI" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/bin/Debug/net10.0/ApplicationManagerAPI.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/bin/Debug/net10.0/ApplicationManagerAPI.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/bin/Debug/net10.0/ApplicationManagerAPI.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/bin/Debug/net10.0/ApplicationManagerAPI.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/bin/Debug/net10.0/ApplicationManagerAPI.staticwebassets.endpoints.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/bin/Debug/net10.0/Microsoft.OpenApi.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/bin/Debug/net10.0/NJsonSchema.Annotations.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/bin/Debug/net10.0/NJsonSchema.NewtonsoftJson.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/bin/Debug/net10.0/NJsonSchema.Yaml.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/bin/Debug/net10.0/NJsonSchema.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/bin/Debug/net10.0/NSwag.Annotations.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/bin/Debug/net10.0/NSwag.AspNetCore.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/bin/Debug/net10.0/NSwag.Core.Yaml.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/bin/Debug/net10.0/NSwag.Core.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/bin/Debug/net10.0/NSwag.Generation.AspNetCore.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/bin/Debug/net10.0/NSwag.Generation.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/bin/Debug/net10.0/Namotion.Reflection.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/bin/Debug/net10.0/Newtonsoft.Json.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/bin/Debug/net10.0/YamlDotNet.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/bin/Debug/net10.0/appsettings.Development.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/bin/Debug/net10.0/appsettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/bin/Debug/net10.0/nswag.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/bin/Debug/net10.0/openapi.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/nswag.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/ApplicationManager.Api.csproj.NSwag.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/ApplicationManagerAPI.csproj.NSwag.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/ApplicationManagerAPI.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/ApplicationManagerAPI.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/ApplicationManagerAPI.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/Debug/net10.0/.NETCoreApp,Version=v10.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/Debug/net10.0/Applicat.A6C11BF6.Up2Date" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/Debug/net10.0/ApplicationManagerAPI.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/Debug/net10.0/ApplicationManagerAPI.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/Debug/net10.0/ApplicationManagerAPI.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/Debug/net10.0/ApplicationManagerAPI.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/Debug/net10.0/ApplicationManagerAPI.MvcApplicationPartsAssemblyInfo.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/Debug/net10.0/ApplicationManagerAPI.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/Debug/net10.0/ApplicationManagerAPI.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/Debug/net10.0/ApplicationManagerAPI.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/Debug/net10.0/ApplicationManagerAPI.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/Debug/net10.0/ApplicationManagerAPI.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/Debug/net10.0/ApplicationManagerAPI.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/Debug/net10.0/ApplicationManagerAPI.genruntimeconfig.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/Debug/net10.0/ApplicationManagerAPI.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/Debug/net10.0/apphost" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/Debug/net10.0/ref/ApplicationManagerAPI.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/Debug/net10.0/refint/ApplicationManagerAPI.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/Debug/net10.0/rjsmrazor.dswa.cache.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/Debug/net10.0/rpswa.dswa.cache.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/Debug/net10.0/staticwebassets.build.endpoints.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/Debug/net10.0/staticwebassets.build.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/Debug/net10.0/staticwebassets.build.json.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/Debug/net10.0/swae.build.ex.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/rider.project.model.nuget.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ApplicationManagerAPI/openapi.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/frontend/src/app/generated/api.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/frontend/src/app/app.html" beforeDir="false" afterPath="$PROJECT_DIR$/../src/frontend/src/app/app.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/frontend/src/app/app.routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../src/frontend/src/app/app.routes.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/frontend/src/app/app.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/frontend/src/app/proxy.conf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ApplicationManager/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ApplicationManager/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/frontend/src/app/components/todo-displayer.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../src/frontend/src/app/components/todo-displayer.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
