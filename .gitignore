@@ -17,6 +17,11 @@ appsettings.Local.json
 *.pubxml
 *.publishsettings
 
+# Local SQLite database files
+*.db
+*.db-shm
+*.db-wal
+
 # NuGet
 *.nupkg
 *.snupkg
