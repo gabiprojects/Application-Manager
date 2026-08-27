@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="src/backend/src/ApplicationManagerAPI/ApplicationManagerAPI.csproj" />
+  <Project Path="src/backend/src/Apphost/Apphost.csproj" />
 </Solution>

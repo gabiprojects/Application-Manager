@@ -8,6 +8,7 @@
 
     <ItemGroup>
         <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.0" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="10.0.0" />
         <PackageReference Include="NSwag.AspNetCore" Version="14.7.1" />
 
         <PackageReference Include="NSwag.MSBuild" Version="14.7.1">
@@ -15,16 +16,14 @@
         </PackageReference>
 
         <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="10.2.3" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="10.0.0">
+            <PrivateAssets>all</PrivateAssets>
+            <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
     </ItemGroup>
 
-    <Target
-            Name="NSwag"
-            AfterTargets="Build"
-            Condition="'$(Configuration)' == 'Debug'">
-        <Exec
-                WorkingDirectory="$(ProjectDir)"
-                EnvironmentVariables="ASPNETCORE_ENVIRONMENT=Development"
-                Command="$(NSwagExe_Net100) run nswag.json /variables:Configuration=$(Configuration)" />
+    <Target Name="NSwag" AfterTargets="Build" Condition="'$(Configuration)' == 'Debug'">
+        <Exec WorkingDirectory="$(ProjectDir)" EnvironmentVariables="ASPNETCORE_ENVIRONMENT=Development" Command="$(NSwagExe_Net100) run nswag.json /variables:Configuration=$(Configuration)" />
     </Target>
 
 </Project>
